@@ -1,0 +1,10 @@
+streamlit
+jax
+flax
+optax
+tensorflow
+torch
+scikit-learn
+pandas
+numpy
+joblib
