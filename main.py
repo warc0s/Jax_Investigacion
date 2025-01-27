@@ -1,4 +1,3 @@
-# app.py
 import streamlit as st
 import joblib
 import numpy as np
@@ -7,6 +6,7 @@ import jax.numpy as jnp
 from flax import linen as nn
 import tensorflow as tf
 import torch
+from sklearn.datasets import fetch_openml
 from sklearn.pipeline import Pipeline
 
 # Configuración inicial
