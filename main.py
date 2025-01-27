@@ -1,4 +1,3 @@
-# app.py
 import streamlit as st
 import joblib
 import numpy as np
@@ -6,6 +5,7 @@ import jax.numpy as jnp
 from flax.training import train_state
 import tensorflow as tf
 import torch
+import torch.nn as nn
 
 # Cargar preprocesador y modelos
 preprocessor = joblib.load("preprocessor.joblib")
