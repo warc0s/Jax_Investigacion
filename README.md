@@ -90,6 +90,7 @@ Integración con: TensorFlow Datasets 🤝 HuggingFace Transformers 🤝 JAX AI 
 - https://opensource.googleblog.com/2024/12/a-robust-open-ecosystem-accelerating-ai-infrastructure.html
 - https://github.com/jax-ml/jax-ai-stack
 - https://github.com/n2cholas/awesome-jax
+- https://www.youtube.com/watch?v=_0D5lXDjNpw
 
 ---
 
